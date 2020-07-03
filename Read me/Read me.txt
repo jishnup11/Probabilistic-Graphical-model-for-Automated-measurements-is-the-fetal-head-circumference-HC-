@@ -1,6 +1,3 @@
-# Probabilistic-Graphical-model-for-Automated-measurements-is-the-fetal-head-circumference-HC-18.
-Grand challenge
-
 # HC18 Grand challenge
 
 https://hc18.grand-challenge.org/
@@ -18,4 +15,3 @@ stage1 : Segment the fetal head part from the input images using "Marchov Random
 stage 2 : Perform feature extraction on the segmented images using VGG16 model " VGG16 feature extraction from segmented images.ipynb"
 
 stage 3 : Use deep learning model to predict the head circumference for the input image from its features using " Predicting Head Circumference.ipynb " 
-
